@@ -124,10 +124,6 @@
 	<a href="https://github.com/Rony-Cuenca/front-inventory">
   		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rony-Cuenca&repo=front-inventory" />
 	</a>
-	<br>
-	<a href="https://github.com/Rony-Cuenca/app-order-backend">
-  		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rony-Cuenca&repo=app-order-backend" />
-	</a>
 </p>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com?user=Rony-Cuenca&theme=tokyonight_duo&hide_border=true"</p>
